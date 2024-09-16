@@ -1,0 +1,29 @@
+/* style.css */
+
+/* Estilos globais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ece3e3;
+  }
+  
+  /* Estilos para o cabeçalho */
+  #header {
+    background-color: #128b22;
+    color: #fff;
+  }
+  
+  /* Estilos para as seções */
+  .container {
+    padding: 50px;
+  }
+  
+  /* Estilos para a galeria */
+  .img-fluid {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  /* Estilos para o rodapé */
+  .footer {
+    text-align: center;
+  }
